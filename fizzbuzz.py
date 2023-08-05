@@ -14,4 +14,4 @@ def fizzbuzz_comprehension(n):
   print('\n fizzbuzz comprehension way\n',fizzbuzz)
 
 if __name__ == "__main__":
-  fizzbuzz_comprehension(115)
+  fizzbuzz(115)
